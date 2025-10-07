@@ -11,3 +11,4 @@ wheels/
 .env
 debug.log
 /debug.log
+/alembic.ini
